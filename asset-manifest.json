@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bcd75/my-app.git/static/css/main.08a37f44.chunk.css",
-    "main.js": "/bcd75/my-app.git/static/js/main.10a8d941.chunk.js",
-    "main.js.map": "/bcd75/my-app.git/static/js/main.10a8d941.chunk.js.map",
-    "runtime~main.js": "/bcd75/my-app.git/static/js/runtime~main.038c9a31.js",
-    "runtime~main.js.map": "/bcd75/my-app.git/static/js/runtime~main.038c9a31.js.map",
-    "static/js/2.5a092441.chunk.js": "/bcd75/my-app.git/static/js/2.5a092441.chunk.js",
-    "static/js/2.5a092441.chunk.js.map": "/bcd75/my-app.git/static/js/2.5a092441.chunk.js.map",
-    "static/js/3.68d536b4.chunk.js": "/bcd75/my-app.git/static/js/3.68d536b4.chunk.js",
-    "static/js/3.68d536b4.chunk.js.map": "/bcd75/my-app.git/static/js/3.68d536b4.chunk.js.map",
-    "index.html": "/bcd75/my-app.git/index.html",
-    "precache-manifest.b195a5b902cc9ea09323149c4e22d291.js": "/bcd75/my-app.git/precache-manifest.b195a5b902cc9ea09323149c4e22d291.js",
-    "service-worker.js": "/bcd75/my-app.git/service-worker.js",
-    "static/css/main.08a37f44.chunk.css.map": "/bcd75/my-app.git/static/css/main.08a37f44.chunk.css.map"
+    "main.css": "/my-app/static/css/main.08a37f44.chunk.css",
+    "main.js": "/my-app/static/js/main.10a8d941.chunk.js",
+    "main.js.map": "/my-app/static/js/main.10a8d941.chunk.js.map",
+    "runtime~main.js": "/my-app/static/js/runtime~main.a89e4939.js",
+    "runtime~main.js.map": "/my-app/static/js/runtime~main.a89e4939.js.map",
+    "static/js/2.5a092441.chunk.js": "/my-app/static/js/2.5a092441.chunk.js",
+    "static/js/2.5a092441.chunk.js.map": "/my-app/static/js/2.5a092441.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/my-app/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/my-app/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.512ade1e0752a3b70984dea8d99552e8.js": "/my-app/precache-manifest.512ade1e0752a3b70984dea8d99552e8.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.08a37f44.chunk.css.map": "/my-app/static/css/main.08a37f44.chunk.css.map"
   }
 }
