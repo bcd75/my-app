@@ -14,13 +14,13 @@ function App() {
     <Router>
       <Routes>
         {/* If not logged in, navigate to the Login page */}
-        <Route path="/login" element={<Login onLoginSuccess={handleLoginSuccess} />} />
+        <Route path="/Login" element={<Login onLoginSuccess={handleLoginSuccess} />} />
 
         {/* If logged in, navigate to the Dashboard */}
-        <Route path="/dashboard" element={isLoggedIn ? <Dashboard /> : <Navigate to="/login" />} />
+        <Route path="/Dashboard" element={isLoggedIn ? <Dashboard /> : <Navigate to="/Login" />} />
 
         {/* Redirect to login if the user tries to access the home route */}
-        <Route path="/" element={<Navigate to={isLoggedIn ? "/dashboard" : "/login"} />} />
+        <Route path="/" element={<Navigate to={isLoggedIn ? "/Dashboard" : "/Login"} />} />
       </Routes>
     </Router>
   );
