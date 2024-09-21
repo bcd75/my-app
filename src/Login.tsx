@@ -15,7 +15,7 @@ const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
 
   // Mock credentials
   const mockUsername = "user";
-  const mockPassword = "pass";
+  const mockPassword = "p@ssword";
 
   const handleLogin = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();  // Prevent page refresh
@@ -32,7 +32,7 @@ const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
 
   return (
     <div className="login-container">
-      <h2>Login Page</h2>
+      <h2>Welcome</h2>
       {error && <p className="error">{error}</p>}
       <form onSubmit={handleLogin}>
         <div>
